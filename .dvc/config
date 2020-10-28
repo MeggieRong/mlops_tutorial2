@@ -1,0 +1,7 @@
+[core]
+    remote = storage
+['remote "storage"']
+    url = ssh://172.20.8.10/home/hairou/algorithm-dvc
+    user = hairou
+    port = 22
+    password = hairou
